@@ -49,3 +49,4 @@ void DoubleData::setData(double _data) {
 
 
 
+
